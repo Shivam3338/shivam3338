@@ -4,7 +4,7 @@ This is SHIVAM KUMAR SINGH!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam3338)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam3338/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shivamkr3338@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamkr3338@gmail.com)
 
 Welcome to my GitHub profile! I'm an Electrical Engineering student pursuing my B.Tech Degree from Government Engineering College, Samastipur. ⚡
 
